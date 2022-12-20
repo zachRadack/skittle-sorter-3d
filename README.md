@@ -8,6 +8,7 @@ I made this skittle sorter for ista 303 at the UofA. There was sadly some data l
 
 This got me second place in the ishowcase with around 44 second time with 85% accuracy.
 
+(was nearing the end with used skittles, so it's accuracy and speed dropped dramatically)
 [![SKittle sorting video](https://img.youtube.com/vi/clQEKeElRRE/0.jpg)](https://www.youtube.com/watch?v=clQEKeElRRE)
 
 
